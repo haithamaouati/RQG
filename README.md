@@ -19,17 +19,17 @@ This script prints a random quote from a file called "quotes.txt".
 3. Run the script using the following command: bash quote.sh
 
 ## Example
-###### Terminal
+###### Linux, WSL, Termux - Terminal
 ```shell
 $ bash quote.sh
 "I am a constant in a sea of variables." - Haitham Aouati
 ```
-###### Command line (CMD)
+###### Windows - Command line (CMD)
 ```batch
 > quote.bat
 "I am a constant in a sea of variables." - Haitham Aouati
 ```
-###### PowerShell
+###### Windows - PowerShell
 ```powershell
 > .\myscript.ps1
 "I am a constant in a sea of variables." - Haitham Aouati
