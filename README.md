@@ -19,13 +19,19 @@ This script prints a random quote from a file called "quotes.txt".
 3. Run the script using the following command: bash random_quote.sh
 
 ## Example
-```
+###### Terminal
+```shell
 $ bash quote.sh
-"The best way to predict the future is to create it." - Peter Drucker
+"I am a constant in a sea of variables." - Haitham Aouati
 ```
-
-```
+###### Command line (CMD)
+```batch
 > quote.bat
+"I am a constant in a sea of variables." - Haitham Aouati
+```
+###### PowerShell
+```powershell
+> .\myscript.ps1
 "I am a constant in a sea of variables." - Haitham Aouati
 ```
 
