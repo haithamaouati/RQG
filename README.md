@@ -32,7 +32,7 @@ Made with :heart: by **Haitham Aouati**
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
 ## License
-This project is released under the [Unlicense](). This means that you are free to use, modify, and distribute the code as you see fit, without any restrictions.
+This project is released under the [Unlicense](https://github.com/haithamaouati/Quote/blob/main/LICENSE). This means that you are free to use, modify, and distribute the code as you see fit, without any restrictions.
 
 ## Disclaimer
 This project is provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages or other liability arising from the use of the code.
