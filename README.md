@@ -16,7 +16,7 @@ This script prints a random quote from a file called "quotes.txt".
 ## How to use
 1. Make sure you have a file called "quotes.txt" in the same directory as the script.
 2. Add your quotes to the "quotes.txt" file, one quote per line.
-3. Run the script using the following command: bash random_quote.sh
+3. Run the script using the following command: bash quote.sh
 
 ## Example
 ###### Terminal
