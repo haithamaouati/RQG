@@ -22,7 +22,11 @@ This script prints a random quote from a file called "quotes.txt".
 ```
 $ bash quote.sh
 "The best way to predict the future is to create it." - Peter Drucker
+```
 
+```
+> quote.bat
+"I am a constant in a sea of variables." - Haitham Aouati
 ```
 
 ## Author
