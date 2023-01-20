@@ -9,9 +9,11 @@ This script prints a random quote from a file called "quotes.txt".
 
 - [How to use](#how-to-use)
 - [Example](#example)
+  - [Bash](#bash)
+  - [Batch](#batch)
+  - [PowerShell](#powershell)
 - [Author](#author)
 - [License](#license)
-- [Disclaimer](#disclaimer)
 
 ## How to use
 1. Make sure you have a file called "quotes.txt" in the same directory as the script.
@@ -19,21 +21,20 @@ This script prints a random quote from a file called "quotes.txt".
 3. Run the script using the following command: bash quote.sh
 
 ## Example
-###### Linux, WSL, Termux - Terminal
-```shell
-$ bash quote.sh
-"I am a constant in a sea of variables." - Haitham Aouati
+###### Bash
 ```
-###### Windows - Command line (CMD)
-```batch
-> quote.bat
-"I am a constant in a sea of variables." - Haitham Aouati
+./quote.sh
 ```
-###### Windows - PowerShell
-```powershell
-> .\myscript.ps1
-"I am a constant in a sea of variables." - Haitham Aouati
+###### Batch
 ```
+quote.bat
+```
+###### PowerShell
+```
+.\myscript.ps1
+```
+###### Output
+> "Constant amid a sea of variables." - Haitham Aouati
 
 ## Author
 Made with :heart: by **Haitham Aouati**
@@ -43,6 +44,3 @@ Made with :heart: by **Haitham Aouati**
 
 ## License
 This project is released under the [Unlicense](https://github.com/haithamaouati/Quote/blob/main/LICENSE). This means that you are free to use, modify, and distribute the code as you see fit, without any restrictions.
-
-## Disclaimer
-This project is provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages or other liability arising from the use of the code.
