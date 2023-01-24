@@ -1,5 +1,5 @@
 @echo off
-title Quote
+title RQG
 
 :: Author: Haitham Aouati
 :: GitHub: https://github.com/haithamaouati
